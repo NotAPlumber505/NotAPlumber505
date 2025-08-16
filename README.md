@@ -60,4 +60,6 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+![NotAPlumber505's Stats](https://github-readme-stats.vercel.app/api?username=NotAPlumber505&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ###
