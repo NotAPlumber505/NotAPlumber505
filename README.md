@@ -20,7 +20,27 @@
 
 ###
 
-<p align="left">I'm Mario Casas, a senior Computer Science student from Florida International University.<br><br>🔭 I’m working as an Undergraduate Research Assistant, Teaching Assistant, and Capstone Project Developer, building interactive applications, physics simulations, and teaching coding to students.<br><br>📚 I'm currently learning advanced software engineering practices, mobile app development, Unity 3D game development, and machine learning tools like PyTorch and scikit-learn.<br><br>⚡ In my free time I create indie game projects, participate in hackathons, experiment with interactive web apps, and explore creative ways to teach coding and physics concepts.</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notaplumber505" alt="notaplumber505" /></a> </p>
+
+- 🔭 I’m currently working on **Interview Prep Discord Bot - a bot that automatically queues users to for a live mock interview and automates job postings**
+
+- 🌱 I’m currently learning **AWS for cloud development**
+
+- 👯 I’m looking to collaborate on [EcoQuest — an educational sustainability game built with Unity & Python](https://github.com/NotAPlumber505/EcoQuest.git)
+
+- 👨‍💻 All of my projects are available at [https://mario-casas.vercel.app/](https://mario-casas.vercel.app/)
+
+- 💬 Ask me about **Python, Java, JavaScript, REST APIs, Streamlit apps, frontend design, and teaching CS**
+
+- 📫 How to reach me **MCasas548@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KPm-lws9m-1JcZRvRMoCaURhF7IUhZMB/view?usp=sharing](https://drive.google.com/file/d/1KPm-lws9m-1JcZRvRMoCaURhF7IUhZMB/view?usp=sharing)
+
+- ⚡ Fun fact **I can build full apps way faster when they involve music or games 🎮🎵**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ###
 
