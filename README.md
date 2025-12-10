@@ -20,8 +20,6 @@
 
 ###
 
-<p align="left"> <a href="https://github.com/notaplumber505/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notaplumber505" alt="notaplumber505" /></a> </p>
-
 - 🔭 I’m currently working on **Interview Prep Discord Bot - a bot that automatically queues users to for a live mock interview and automates job postings**
 
 - 🌱 I’m currently learning **AWS for cloud development**
