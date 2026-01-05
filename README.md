@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **MCasas548@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KPm-lws9m-1JcZRvRMoCaURhF7IUhZMB/view?usp=sharing](https://drive.google.com/file/d/1KPm-lws9m-1JcZRvRMoCaURhF7IUhZMB/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KPm-lws9m-1JcZRvRMoCaURhF7IUhZMB/view?usp=sharing](https://drive.google.com/file/d/1liOCjK2fvlFNaMk5CkNPGS2x_560y8Ar/view?usp=sharing)
 
 - ⚡ Fun fact **I can build full apps way faster when they involve music or games 🎮🎵**
 
