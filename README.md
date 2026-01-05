@@ -26,13 +26,13 @@
 
 - 👯 I’m looking to collaborate on [EcoQuest — an educational sustainability game built with Unity & Python](https://github.com/NotAPlumber505/EcoQuest.git)
 
-- 👨‍💻 All of my projects are available at [https://mario-casas.vercel.app/](https://mario-casas.vercel.app/)
+- 👨‍💻 All of my projects are available on my [portfolio](https://mario-casas.vercel.app/)
 
 - 💬 Ask me about **Python, Java, JavaScript, REST APIs, Streamlit apps, frontend design, and teaching CS**
 
 - 📫 How to reach me **MCasas548@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KPm-lws9m-1JcZRvRMoCaURhF7IUhZMB/view?usp=sharing](https://drive.google.com/file/d/1liOCjK2fvlFNaMk5CkNPGS2x_560y8Ar/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1liOCjK2fvlFNaMk5CkNPGS2x_560y8Ar/view?usp=sharing)
 
 - ⚡ Fun fact **I can build full apps way faster when they involve music or games 🎮🎵**
 
