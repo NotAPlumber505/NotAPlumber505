@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mario Casas</h1>
-<h3 align="center">Enterprise Systems Operations Associate at Hilton & Recent CS Graduate</h3>
 
-![Coding Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFkY2oycGR6cHBnZjd2bXUxaW51NG9zYTBqcHBnbzRwYzJpYjlmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2mGgTeJ84513ORhK8m/giphy.gif)
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRuYTN0cWZuY3l0bHMxeHdkazJmdmpvN2ExbWplNzEzb29kMnBmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwImQhtiNA7io/giphy.gif">
+</p>
+
+<h3 align="center">Enterprise Systems Operations Associate at Hilton & Recent CS Graduate</h3>
 
 - 🔭 I’m currently working on [Interview Prep & Career Automation Discord Bot - a bot that automatically queues users to for a live mock interview and automates job postings](https://github.com/MrkAnthony/discord_bot.git)
 
